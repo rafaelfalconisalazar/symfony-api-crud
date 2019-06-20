@@ -1,2 +1,4 @@
 # symfony-api-crud
-resta api crud with symfony 4
+## Pasos Iniciales
++ primer comando composer install
++ cambiar los datos dentro del archivo ApiController dentro de /src/controller
